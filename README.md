@@ -1,4 +1,4 @@
-# chinese-personal-blog
-chinese personal blog
+# Chinese-Blog
+Chinese Blog
 
-URL: https://tyler-pruitt.github.io/chinese-personal-blog/
+URL: https://tyler-pruitt.github.io/Chinese-Blog/
